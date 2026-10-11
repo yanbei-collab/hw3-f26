@@ -85,7 +85,7 @@ nav li a:hover, nav li a:focus{
 
 .text-block{
      text-align: center;
-     margin:auto;
+     margin:0 auto;
 }
 
 
@@ -132,6 +132,7 @@ nav{
 .text-block{
      max-height: 235px;
      overflow:auto;
+     scrollbar-width: none;
 }
 
 }
